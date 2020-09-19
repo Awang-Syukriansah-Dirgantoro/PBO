@@ -37,6 +37,30 @@ jawab : yang di gunakan untuk menambah saldo adalah method setor()
 
 <img src=gambar/4a.png>
 
+4. Apa yand dimaksud konstruktor?
+
+jawab : Konstruktor adalah method khusus untuk menginstantsiasi suatu data tertentu.
+
+5. Sebutkan aturan dalam membuat konstruktor?
+
+jawab : Nama method harus sama dengan nama class, bisa berparameter, selalu bertipe public, tidak memiliki return, tidak memiliki tipe data method.
+
+6. Apakah boleh konstruktor bertipe private?
+
+jawab : Tidak boleh karena kontruktor adalah yang pertama kali dieksekusi oleh class yang memanggil karena berbeda class lebih disarankan public.
+
+7. Kapan menggunakan parameter dengan passsing parameter?
+
+jawab : Saat pertama kali karena untuk memanggil class serta menginstansiasi data data.
+
+8. Apa perbedaan atribut class dan instansiasi atribut?
+
+jawab : Atribut class adalah seluruh variabel yang ada pada suatu class sedangkan intansiasi atribut adalah atribut yang bisa di isi data.
+
+9. Apa perbedaan class method dan instansiasi method?
+
+jawab : Class method adalah seluruh method yang ada pada suatu class dan biasanya di gunakan untuk menset, mengambil, mengeksekusi suatu data. Instansiasi method adalah method kontruktor dimana method tersebut setiap kali program di eksekusi maka kontruktor lah yang di eksekusi terlebih dahulu untuk memberi nilai pada suatu data sebagai default awal program.
+
 ## Tugas 
 
 1. Setelah program dicoba menghasilkan hasil umur = 30.
